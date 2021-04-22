@@ -8,9 +8,9 @@ Website: https://hackinggalaxy.wixsite.com/hacking
 Guide 
 
 Installation:
-       $ git clone https://github.com/Pragadeesh-Raj/instaprofile.git
+       $ git clone https://github.com/Pragadeesh-Raj/instaprofile.git ,
        $ pip install instaloader
        
 Usage:
-   $ cd instaprofile
+   $ cd instaprofile ,
    $ python instaprofile.py
